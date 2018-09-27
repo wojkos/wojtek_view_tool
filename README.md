@@ -21,7 +21,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WojtekViewTool::Renderer.copyright('Wojtek Kostański', 'All right reserved')
+````
 
 ## Development
 
